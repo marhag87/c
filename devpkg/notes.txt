@@ -1,0 +1,5 @@
+DB_update -> DB_find -> return?
+
+Initialize db on first use.
+
+Print usage on faulty command
